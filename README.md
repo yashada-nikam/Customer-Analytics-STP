@@ -1,4 +1,4 @@
-# Customer-Analytics
+# Customer Analytics using STP framework
 To analyze data and identify marketing strategies, we employ the STP marketing approach. By using machine learning (ML) clustering analysis, we first divide all of our customers into segments or clusters. Additionally, we'll forecast the three most crucial customer behaviors:
 1. Will consumers purchase a product?
 2. What brands will they purchase?
